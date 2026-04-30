@@ -127,7 +127,7 @@ python Caso4_7.py  # Cases 4-7 (distance, components, diameter)
 
 ## Author Notes
 
-- All code is written in English per project standards
+- All code is written in English due to personal preference
 - Graphs are undirected and support self-loops
 - Vertex indices are 1-based (1 to num_vertices)
 - Results include execution time measurements for performance analysis
