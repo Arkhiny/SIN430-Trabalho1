@@ -103,6 +103,10 @@ Computes exact graph diameter for small graphs and approximations for larger gra
 
 ## Input Data
 
+Download the dataset from [this Google Drive folder](https://drive.google.com/drive/folders/1BaUij5X2DA9vmvrIzZKRtNzVjVgeZsL-?usp=sharing) and place the graph files inside `Data/`.
+
+The `Data/` folder is kept in the repository, but the dataset files inside it are ignored by git. Each local copy of the project should contain the downloaded graph files.
+
 Graph definitions are stored in edge list format:
 
 **File Format**: `Data/grafo_[1-6].txt`
