@@ -1,0 +1,18 @@
+Case 4-7 report
+Graph source: C:\Pessoal\WorkingProjects\SIN430-Trabalho\Data\grafo_6.txt
+Representation: Adjacency List
+
+Task 7 - Approximate diameter
+Estimated diameter (lower bound): 7
+Best endpoint pair from sweeps: (965, 1)
+Number of sampled starts: 8
+Random seed: 42
+Sweep preview:
+  start=1 -> far=965 (dist=7), then far=1 (dist=7)
+  start=209806 -> far=1176 (dist=7), then far=3 (dist=7)
+  start=2307114 -> far=99 (dist=6), then far=235 (dist=6)
+  start=2054302 -> far=9263 (dist=7), then far=606 (dist=7)
+  start=1872428 -> far=31 (dist=6), then far=204 (dist=6)
+  start=1170529 -> far=17072 (dist=7), then far=345 (dist=7)
+  start=859792 -> far=602 (dist=6), then far=434 (dist=6)
+  start=4574867 -> far=1824 (dist=7), then far=76 (dist=7)

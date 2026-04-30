@@ -1,0 +1,15 @@
+Graph search execution-time report
+Graph source: C:\Pessoal\WorkingProjects\SIN430-Trabalho\Data\grafo_2.txt
+Search type: Breadth-First Search (BFS)
+Graph representation: Adjacency List
+Search runs: 100
+Random seed used for start vertices: 42
+Start vertices: 41906, 7297, 1640, 48599, 18025, 16050, 14629, 9145, 48266, 6718, 44349, 48541, 35742, 5698, 38699, ... (total 100 start vertices)
+
+Search type: Breadth-First Search (BFS)
+Graph representation: Adjacency List
+  Vertices: 49948
+  Edges: 1298775
+  Search runs: 100
+  Total time: 22263.251 ms
+  Average time per search: 222.633 ms

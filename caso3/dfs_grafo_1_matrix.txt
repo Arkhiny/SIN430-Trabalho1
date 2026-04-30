@@ -1,0 +1,15 @@
+Graph search execution-time report
+Graph source: C:\Pessoal\WorkingProjects\SIN430-Trabalho\Data\grafo_1.txt
+Search type: Depth-First Search (DFS)
+Graph representation: Adjacency Matrix
+Search runs: 100
+Random seed used for start vertices: 42
+Start vertices: 1825, 410, 4507, 4013, 3658, 2287, 1680, 8936, 1425, 9675, 6913, 521, 489, 1536, 3583, ... (total 100 start vertices)
+
+Search type: Depth-First Search (DFS)
+Graph representation: Adjacency Matrix
+  Vertices: 10000
+  Edges: 109925
+  Search runs: 100
+  Total time: 625414.503 ms
+  Average time per search: 6254.145 ms

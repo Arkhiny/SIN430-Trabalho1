@@ -1,0 +1,9 @@
+Case 4-7 report
+Graph source: C:\Pessoal\WorkingProjects\SIN430-Trabalho\Data\grafo_3.txt
+Representation: Adjacency List
+
+Task 5 - Distances between selected vertex pairs
+
+Distance(10, 20) = 9
+Distance(10, 30) = unreachable
+Distance(20, 30) = unreachable

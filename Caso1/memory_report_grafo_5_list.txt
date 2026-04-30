@@ -1,0 +1,8 @@
+Graph source: C:\Pessoal\WorkingProjects\SIN430-Trabalho\Data\grafo_5.txt
+Input summary: 4843750 vertices, 13168928 edges
+
+Adjacency List:
+  Vertices: 4843750
+  Edges: 13168918
+  Memory in use after load: 838.69 MB
+  Peak memory during load: 838.69 MB

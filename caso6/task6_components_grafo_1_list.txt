@@ -1,0 +1,9 @@
+Case 4-7 report
+Graph source: C:\Pessoal\WorkingProjects\SIN430-Trabalho\Data\grafo_1.txt
+Representation: Adjacency List
+
+Task 6 - Connected components
+Number of connected components: 1
+Largest component size: 10000
+Smallest component size: 10000
+Component sizes preview: 10000

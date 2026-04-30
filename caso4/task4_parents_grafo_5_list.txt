@@ -1,0 +1,25 @@
+Case 4-7 report
+Graph source: C:\Pessoal\WorkingProjects\SIN430-Trabalho\Data\grafo_5.txt
+Representation: Adjacency List
+
+Task 4 - Parent vertices in BFS and DFS trees
+Start vertices: 1, 2, 3
+Target vertices: 10, 20, 30
+
+Start vertex 1:
+  Vertex | BFS parent | DFS parent
+      10 |    1888350 |    1888350
+      20 |          - |          -
+      30 |    2502539 |     191713
+
+Start vertex 2:
+  Vertex | BFS parent | DFS parent
+      10 |          - |          -
+      20 |          - |          -
+      30 |          - |          -
+
+Start vertex 3:
+  Vertex | BFS parent | DFS parent
+      10 |    1888350 |    2245850
+      20 |          - |          -
+      30 |     191713 |     191713
